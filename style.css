@@ -1,0 +1,38 @@
+@import url(index.html);
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@400;700&display=swap');
+
+:root{
+    --cor-principal: #FFEF00;
+    --font-principal: 'Mitr', sans-serif;
+}
+
+.inicio{
+    background-image: url("/assets/pastel-background.svg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.inicio__inter {
+    display: flex;
+    flex-direction: column;
+    padding: 0 10% 0 10%;
+}
+
+.logo{
+    margin: 33rem 0 7rem 0 ;
+    height: 80px;
+}
+
+.comecar__botao{
+    text-decoration: none;
+    color: black;
+    border: 1px solid var(--cor-principal);
+    background-color: var(--cor-principal);
+    border-radius: 24px;
+    padding:  1rem;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: var(--font-principal)
+}

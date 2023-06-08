@@ -1,0 +1,22 @@
+<svg width="430" height="932" viewBox="0 0 430 932" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6_8)">
+<rect width="430" height="932" fill="#D38023"/>
+<ellipse cx="43.5" cy="45.5" rx="29.5" ry="28.5" fill="#D8A469"/>
+<ellipse cx="341.5" cy="74.5" rx="35.5" ry="34.5" fill="#D8A469"/>
+<ellipse cx="179" cy="165.5" rx="47" ry="45.5" fill="#D8A469"/>
+<ellipse cx="330" cy="263.5" rx="47" ry="45.5" fill="#D8A469"/>
+<ellipse cx="204.5" cy="64.5" rx="25.5" ry="24.5" fill="#D8A469"/>
+<ellipse cx="132" cy="464.5" rx="47" ry="45.5" fill="#D8A469"/>
+<ellipse cx="55.5" cy="228" rx="17.5" ry="17" fill="#D8A469"/>
+<ellipse cx="406.5" cy="388" rx="46.5" ry="45" fill="#D8A469"/>
+<ellipse cx="245.5" cy="372.5" rx="30.5" ry="29.5" fill="#D8A469"/>
+<ellipse cx="399.5" cy="154.5" rx="30.5" ry="29.5" fill="#D8A469"/>
+<ellipse cx="148.5" cy="315.5" rx="30.5" ry="29.5" fill="#D8A469"/>
+<path d="M0 442L107.035 472.199L215 451.254L287.528 470.343C292.161 471.563 297.018 471.655 301.693 470.612L430 442V932H0V442Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_6_8">
+<rect width="430" height="932" fill="white"/>
+</clipPath>
+</defs>
+</svg>
